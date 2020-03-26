@@ -158,6 +158,10 @@ button:focus {
   padding: 8px;
 }
 
+input {
+  box-sizing: border-box;
+}
+
 .close-btn {
   background-color: transparent;
   position: absolute;
